@@ -6,7 +6,7 @@
 * ¿Por qué hay que utilizar buenas práctica?
 * ¿Qué estamos queriendo comunicar con nuestra presentación?
 * ¿Cuál es el público al que me estoy enfocando?
- * En la weekly del lunes puedo preguntar quien es la/él que más domina Power Bi y quien menos. Esto nos puede dar un enfoque de empujar a los que van flojos y darle un pequeño aprendizaje a los que más.
+  *   En la weekly del lunes puedo preguntar quien es la/él que más domina Power Bi y quien menos. Esto nos puede dar un enfoque de empujar a los que van flojos y darle un pequeño aprendizaje a los que más.
 ## Cantidad de diapositivas:
 
 ## Fuertes de Laura:
