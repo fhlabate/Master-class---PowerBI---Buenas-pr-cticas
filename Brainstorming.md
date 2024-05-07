@@ -4,6 +4,5 @@
 ## Ideas clave:
 
 * ¿Por qué hay que utilizar buenas práctica?
- * ‎ 
-* ¿Qué estamos queriendo comunicar?
+* ¿Qué estamos queriendo comunicar con nuestra presentación?
 * ¿Cuál es el público al que me estoy enfocando? 
