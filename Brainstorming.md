@@ -2,7 +2,6 @@
 
 # Brainstorming
 ## Ideas clave:
-## Ideas clave:
 
 * ¿Por qué hay que utilizar buenas práctica?
 * ¿Qué estamos queriendo comunicar con nuestra presentación?
