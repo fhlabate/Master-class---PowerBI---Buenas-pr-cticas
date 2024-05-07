@@ -5,4 +5,11 @@
 
 * ¿Por qué hay que utilizar buenas práctica?
 * ¿Qué estamos queriendo comunicar con nuestra presentación?
-* ¿Cuál es el público al que me estoy enfocando? 
+* ¿Cuál es el público al que me estoy enfocando?
+
+## Cantidad de diapositivas:
+
+## Fuertes de Laura:
+
+## Fuertes de Fede:
+
