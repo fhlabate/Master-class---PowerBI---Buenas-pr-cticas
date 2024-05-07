@@ -4,7 +4,10 @@
 ### 🎙️Laura Cuscurita Martinez & Fede Labate
 
 
-#Prueba piloto
+# Prueba piloto
+
+*hola esto es una prueba*
+  
 Repositorio para crear la Master Class de PowerBI (Buenas prácticas / sugerencia a tener en cuenta en los gráficos)
 
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=YnRjcXFpMTVoNHFvOWYzNm9oNWt1MTY0ZG8gZmhsYWJhdGVAbQ&amp;tmsrc=fhlabate%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es-419.gif"></a>
