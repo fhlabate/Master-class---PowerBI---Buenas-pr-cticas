@@ -7,6 +7,14 @@
 * ¿Qué estamos queriendo comunicar con nuestra presentación?
 * ¿Cuál es el público al que me estoy enfocando?
   *   En la weekly del lunes puedo preguntar quien es la/él que más domina Power Bi y quien menos. Esto nos puede dar un enfoque de empujar a los que van flojos y darle un pequeño aprendizaje a los que más.
+* Doble click para limpiar gráficos
+* Conector con Google Drive 
+* ABC de visualizaciones claras
+* Lo importante del contexto
+* A que audiencia me estoy enfocando
+
+-Pedir feedback en cuanto al nivel de complejidad para futuras MasterClasses 
+
 ## Cantidad de diapositivas:
 
 ## Fuertes de Laura:
