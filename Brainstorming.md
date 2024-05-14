@@ -13,6 +13,9 @@
 * Lo importante del contexto
 * A que audiencia me estoy enfocando
 
+* https://www.storytellingwithdata.com/
+* ![image](https://github.com/fhlabate/Master_class_PowerBI_Buenas_practicas/assets/99092269/972bddbd-1635-4b72-a01c-8f06cc9faf35)
+
 -Pedir feedback en cuanto al nivel de complejidad para futuras MasterClasses 
 
 ## Cantidad de diapositivas:
