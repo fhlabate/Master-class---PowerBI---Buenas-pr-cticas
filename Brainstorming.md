@@ -11,7 +11,7 @@
 * Conector con Google Drive 
 * ABC de visualizaciones claras
 * Lo importante del contexto
-* A que audiencia me estoy enfocando
+* A que audiencia me estoy enfocando (punto clave) : se podrian hacer dos dashborads y a partir de ahi, explicar las difefencias clave. Resaltar la importancia del contexto y del publico, y destacar lo mucho que influye en una presentación. Ej: departamento de marketing vs junta general / reunión de jefes / etc.
 
 -Pedir feedback en cuanto al nivel de complejidad para futuras MasterClasses 
 
